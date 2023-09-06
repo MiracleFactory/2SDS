@@ -1,6 +1,6 @@
-# Scene Separation & Data Selection(Work in progress)
+# Scene Separation & Data Selection (work in progress)
 This repo contains the Scene Separation and Data Selection Algorithm used for real-time video stream analysis.
-> This algorithm is a work featured in [**Spatio-Temporal Reasoning and Learning 2022**](https://strl2022.github.io/).
+> This algorithm is a work featured in IJCAI 2022 workshop [**Spatio-Temporal Reasoning and Learning**](https://strl2022.github.io/).
 
 ### Slides and Papers
 Go to `/slides` for the oral presentation slides, go to [arXiv](https://arxiv.org/abs/2308.00210) for the paper.
