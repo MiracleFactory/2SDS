@@ -1,9 +1,9 @@
 # Data segmentation
-def segementation(input_data, segement_size):
-    for i in range(0, len(input_data), segement_size):
-    	yield input_data[i:i+segement_size]
+def segmentation(input_data, segment_size):
+    for i in range(0, len(input_data), segment_size):
+    	yield input_data[i:i+segment_size]
 
-# Length Weighted Average Pooling, a more agressive way is Stochastic-pooling
+# Length Weighted Average Pooling, a more aggressive way is Stochastic-pooling
 def length_weighted_average_pooling(input_list):
 	avg_len = sum(len(i) * len(i) * 0.1 for i in input_list) / sum(len(i) * 0.1 for i in input_list)
 	mini = min(abs(len(i) - avg_len) for i in input_list)
