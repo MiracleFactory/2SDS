@@ -9,3 +9,16 @@ Go to `/slides` for the oral presentation slides, go to [arXiv](https://arxiv.or
 > 1. add the previously implemented code to this repo    
 > 2. refine 2SDS architecture
 > 3. consider a **graph neural network** approach
+
+### Citation
+If you find this work useful, please cite our paper:
+```
+@misc{2sds2022,
+    title={Scene Separation & Data Selection: Temporal Segmentation Algorithm for Real-time Video Stream Analysis}, 
+    author={Yuelin Xin and Zihan Zhou and Yuxuan Xia},
+    year={2022},
+    eprint={2308.00210},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
