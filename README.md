@@ -4,7 +4,7 @@ This repo contains the Scene Separation and Data Selection Algorithm used for re
 
 ### Slides and Papers
 Go to `/slides` for the oral presentation slides, go to [arXiv](https://arxiv.org/abs/2308.00210) for the paper.    
-Watch our STRL2022 keynote presentation on [Bilibili](https://www.bilibili.com/video/BV1xt421H7ih/?vd_source=106eabaf97d4bcbabe8c343c9cf79fe6).
+Watch our STRL2022 keynote presentation on [YouTube](https://youtu.be/jerIZczBCow) or [Bilibili](https://www.bilibili.com/video/BV1xt421H7ih/?vd_source=106eabaf97d4bcbabe8c343c9cf79fe6).
 
 ### TO DO List
 > 1. add the previously implemented code to this repo    
